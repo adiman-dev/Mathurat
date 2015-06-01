@@ -1,7 +1,7 @@
 #Mathurat
 A text based Al-Mathurat library
 
-This very hard to find a working text based Al-Mathurat in the web. So i created this repo.
+It is so hard to find a working text based Al-Mathurat in the web. People are sharing images instead of free text. So i created this repo.
 
 Thank you [iwani](https://github.com/iwanikhalid) for helping on the arabic text
 
