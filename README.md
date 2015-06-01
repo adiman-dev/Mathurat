@@ -3,7 +3,7 @@ A text based Mathurat Sughra library
 
 This very hard to find a working text based Al-Mathurat in the web. So i created this repo.
 
-Thank you [iwani](https://github.com/iwanikhalid) for helping on the arabic text
+Thank you @iwani for helping on the arabic text
 
 Feel free to use and do a pull request. 
 
