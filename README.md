@@ -9,6 +9,12 @@ Feel free to use and do a pull request.
 
 ##Contents
 1. mathurat_sughra.odt : A raw text based Mathurat Sughra. 
-2. mathurat_sughra_sqlite.sql.sql : A SQLite databse dump file complete with Bahasa Melayu translations
+2. mathurat_sughra_sqlite.sql : A SQLite databse dump file complete with Bahasa Melayu translations
 
 Currently i only have Sughra version :) Maybe next time will have Kubra also (need help!)
+
+##Good to have
+1. Al-Mathurat Kubra
+2. More translations, (English?, Indonesia?)
+3. Better table structure
+4. Anything related
