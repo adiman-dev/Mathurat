@@ -75,7 +75,7 @@ INSERT INTO "mathurat_sughra" VALUES(4, 3, 2, 1, "ٱلرَّحۡمَٰنِ ٱل�
 INSERT INTO "mathurat_sughra" VALUES(5, 4, 2, 1, "مَٰلِكِ يَوۡمِ ٱلدِّينِ ٤", "", 3);
 INSERT INTO "mathurat_sughra" VALUES(6, 5, 2, 1, "إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ ٥", "", 3);
 INSERT INTO "mathurat_sughra" VALUES(7, 6, 2, 1, "ٱهۡدِنَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ ٦", "", 3);
-INSERT INTO "mathurat_sughra" VALUES(8, 7, 2, 1, "صِرَٰطَٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِمۡوَلَا ٱلضَّآلِّينَ ٧", "", 3);
+INSERT INTO "mathurat_sughra" VALUES(8, 7, 2, 1, "صِرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِمۡ وَلَا ٱلضَّآلِّينَ ٧", "", 3);
 INSERT INTO "mathurat_sughra" VALUES(9, 1, 3, 1, "الٓمٓ ١", "Al Baqarah (1-5)", 3);
 INSERT INTO "mathurat_sughra" VALUES(10, 2, 3, 1, "ذَٰلِكَ ٱلۡكِتَٰبُ لَا رَيۡبَۛ فِيهِۛ هُدٗى لِّلۡمُتَّقِينَ ٢", "", 3);
 INSERT INTO "mathurat_sughra" VALUES(11, 3, 3, 1, "ٱلَّذِينَ يُؤۡمِنُونَ بِٱلۡغَيۡبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقۡنَٰهُمۡ يُنفِقُونَ ٣", "", 3);
