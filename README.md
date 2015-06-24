@@ -1,6 +1,7 @@
 #Al-Mathurat
 A text based Al-Mathurat library
 
+##About
 It is so hard to find a working text based Al-Mathurat in the web. People are sharing images instead of free text. So i created this repo.
 
 Thank you [iwani](https://github.com/iwanikhalid) for helping on the arabic text
@@ -19,4 +20,4 @@ Currently i only have Sughra version :) Maybe next time will have Kubra also (ne
 3. Anything related
 
 ##Disclaimer
-We are not responsible for any damages caused from using this data. 
+I am not responsible/liable for any damages caused from using this data. Data is provided as is with a community best effort to minimise errors and discrepencies. 
