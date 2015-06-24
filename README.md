@@ -17,3 +17,6 @@ Currently i only have Sughra version :) Maybe next time will have Kubra also (ne
 1. Al-Mathurat Kubra
 2. More translations, (English?, Indonesia?, Any)
 3. Anything related
+
+##Disclaimer
+We are not responsible for any damages caused from using this data. 
