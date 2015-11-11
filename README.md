@@ -6,10 +6,13 @@ It is so hard to find a working text based Al-Mathurat in the web. People are sh
 
 Thank you [iwani](https://github.com/iwanikhalid) for helping on the arabic text
 
-Feel free to use and do a pull request and feel free to use. No license. 
+Feel free to use and do a pull request and feel free to use. No license.
+
+#Usage
+To create sqlite database from mathurat_sughra_sqlite.sql, just run `cat mathurat_sughra_sqlite.sql | sqlite3 mathurat.db`
 
 ##Contents
-1. mathurat_sughra.odt : A raw text based Mathurat Sughra. 
+1. mathurat_sughra.odt : A raw text based Mathurat Sughra.
 2. mathurat_sughra_sqlite.sql : A SQLite databse dump file complete with Bahasa Melayu translations
 
 Currently i only have Sughra version :) Maybe next time will have Kubra also (need help!)
@@ -20,4 +23,4 @@ Currently i only have Sughra version :) Maybe next time will have Kubra also (ne
 3. Anything related
 
 ##Disclaimer
-I am not responsible/liable for any damages caused from using this data. Data is provided as is with a community best effort to minimise errors and discrepencies. 
+I am not responsible/liable for any damages caused from using this data. Data is provided as is with a community best effort to minimise errors and discrepencies.
