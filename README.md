@@ -1,3 +1,5 @@
+#بسم الله الرّحمٰن الرّ
+
 #Al-Mathurat
 A text based Al-Mathurat library
 
