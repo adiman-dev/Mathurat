@@ -1,7 +1,7 @@
 #بسم الله الرّحمٰن الرّحيم
 
 #Al-Mathurat
-A text based Al-Mathurat library
+A text based Al-Mathurat database
 
 ##About
 It is so hard to find a working text based Al-Mathurat in the web. People are sharing images instead of free text. So i created this repo.
