@@ -12,6 +12,7 @@ Feel free to use and do a pull request and feel free to use. No license.
 
 #Usage
 To create sqlite database from mathurat_sughra_sqlite.sql, just run `cat mathurat_sughra_sqlite.sql | sqlite3 mathurat.db`
+
 To load the translations, run `cat mathurat_sughra_sqlite_<language>.sql | sqlite3 mathurat.db`
 
 ##Contents
