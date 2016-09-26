@@ -25,7 +25,7 @@ Currently i only have Sughra version :) Maybe next time will have Kubra also (ne
 
 ##TODO (Need help/contributors)
 - [ ] Al-Mathurat Kubra
-- [x] Malay
+- [x] Bahasa Melayu
 - [x] English
 - [ ] Chinese
 - [ ] Urdu
