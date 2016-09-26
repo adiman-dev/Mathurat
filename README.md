@@ -24,21 +24,21 @@ To load the translations, run `cat mathurat_sughra_sqlite_<language>.sql | sqlit
 Currently i only have Sughra version :) Maybe next time will have Kubra also (need help!)
 
 ##TODO (Need help/contributors)
- - [] Al-Mathurat Kubra
- - [x] Malay
- - [x] English
- - [] Chinese
- - [] Urdu
- - [] French
- - [] Portuguese
- - [] Bahasa Indonesia
- - [] Japanese
- - [] Italian
- - [] Russian
- - [] German
- - [] Tamil
- - [] Turkish
- - [] Any other languages
+- [ ] Al-Mathurat Kubra
+- [x] Malay
+- [x] English
+- [ ] Chinese
+- [ ] Urdu
+- [ ] French
+- [ ] Portuguese
+- [ ] Bahasa Indonesia
+- [ ] Japanese
+- [ ] Italian
+- [ ] Russian
+- [ ] German
+- [ ] Tamil
+- [ ] Turkish
+- [ ] Any other languages
 
 ##Disclaimer
 I am not responsible/liable for any damages caused from using this data. Data is provided as is with a community best effort to minimise errors and discrepencies.
