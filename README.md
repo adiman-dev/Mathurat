@@ -1,4 +1,3 @@
-#بسم الله الرّحمٰن الرّحيم
 
 #Al-Mathurat
 A text based Al-Mathurat database
