@@ -1,4 +1,4 @@
-بسم الله الرّحمٰن الرّحيم
+#بسم الله الرّحمٰن الرّحيم
 
 #Al-Mathurat
 A text based Al-Mathurat database
@@ -26,7 +26,7 @@ Currently i only have Sughra version :) Maybe next time will have Kubra also (ne
 ##TODO (Need help/contributors)
 - [ ] Al-Mathurat Kubra
 - [x] Bahasa Melayu
-- [-] English
+- [ ] English
 - [ ] Chinese
 - [ ] Urdu
 - [ ] French
