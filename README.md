@@ -6,7 +6,7 @@ A text based Al-Mathurat database
 ## About
 It is so hard to find a working text based Al-Mathurat in the web. People are sharing images/non-OCR friendly files instead of free text that you can copy the content around. Thus, i created this repo.
 
-Thank you [iwani](https://github.com/iwanikhalid) for helping on the arabic text and English translation.
+Thank you [iwani](https://github.com/iwanikhalid) for helping on the arabic text and English translation. Still in progress and seems to be idling for some time now (need help!)
 
 Feel free to use and do a pull request and feel free to use. No license.
 
