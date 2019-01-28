@@ -1,5 +1,5 @@
 CREATE TABLE IF NOT EXISTS "mathurat_sughra" ("id" integer primary key AUTOINCREMENT NOT NULL, "aya" integer NOT NULL, "page" integer NOT NULL, "repeat_count" integer NOT NULL, "text" TEXT NOT NULL, "name" varchar(200) NOT NULL, "recitation_time" integer NOT NULL);
-CREATE UNIQUE INDEX IF NOT EXISTS[mathurat_sughra_key_idx] ON [mathurat_sughra]([aya],[page]);
+CREATE UNIQUE INDEX IF NOT EXISTS[mathurat_sughra_key_idx] ON [mathurat_sughra]([aya],[page],[recitation_time]);
 --recitation_time: 1:morning, 2:afternoon, 3:unspecified
 CREATE TABLE IF NOT EXISTS "translation" ("id" integer primary key AUTOINCREMENT NOT NULL, "mathurat_sughra_id" integer NOT NULL, "language" varchar(2) NOT NULL, "text" TEXT NOT NULL);
 CREATE UNIQUE INDEX IF NOT EXISTS[translation_key_idx] ON [translation]([mathurat_sughra_id], [language]);
