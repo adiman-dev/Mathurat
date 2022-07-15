@@ -21,10 +21,12 @@ To load the translations, run `cat mathurat_sughra_sqlite_<language>.sql | sqlit
 3. mathurat_sughra_sqlite_malay.sql : Bahasa Melayu translations SQL dump file
 4. mathurat_sughra_sqlite_english.sql : English translations SQL dump file
 
-Currently i only have Sughra version :) Maybe next time will have Kubra also (need help!)
+Currently i only have Sughra version :) Maybe next time will have Kubra version (need help!)
 
 ## TODO (Need help/contributors)
 - [ ] Al-Mathurat Kubra
+
+### Translations
 - [x] Bahasa Melayu
 - [ ] English
 - [ ] Chinese
