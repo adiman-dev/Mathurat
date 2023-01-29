@@ -14,8 +14,7 @@ To create sqlite database from mathurat_sughra_sqlite.sql, just run `cat mathura
 To load the translations, run `cat mathurat_sughra_sqlite_<language>.sql | sqlite3 mathurat.db`
 
 ## Contents
-1. mathurat_sughra.sql
-2. ms_translation.sql
+1. mathurat_sughra.sql 
 
 Currently i only have Sughra version :) Maybe next time will have Kubra version (need help!)
 
@@ -23,7 +22,7 @@ Currently i only have Sughra version :) Maybe next time will have Kubra version 
 - [ ] Al-Mathurat Kubra
 
 ### Translations
-- [x] Bahasa Melayu
+- [x] Bahasa Melayu (translation_ms.sql)
 - [ ] English
 - [ ] Chinese
 - [ ] Urdu
