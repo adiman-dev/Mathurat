@@ -14,7 +14,8 @@ To create sqlite database from mathurat_sughra_sqlite.sql, just run `cat mathura
 To load the translations, run `cat mathurat_sughra_sqlite_<language>.sql | sqlite3 mathurat.db`
 
 ## Contents
-1. mathurat_sughra_sqlite.sql : Core Mathurat Sughra SQL dump file
+1. mathurat_sughra.sql
+2. ms_translation.sql
 
 Currently i only have Sughra version :) Maybe next time will have Kubra version (need help!)
 
