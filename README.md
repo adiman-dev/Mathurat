@@ -38,4 +38,4 @@ Currently i only have Sughra version :) Maybe next time will have Kubra version 
 - [ ] Any other languages
 
 ## Disclaimer
-I am not responsible/liable for any damages caused from using this data. Data is provided as is with a community best effort to minimise errors and discrepencies.
+I am not responsible/liable for any damages caused from using this data. Data is provided as is with a community best effort to minimise errors and discrepencies. Pull requests are very much welcomed.
